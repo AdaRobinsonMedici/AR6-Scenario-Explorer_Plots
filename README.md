@@ -7,11 +7,11 @@ To use this repository, please follow these steps:
 The AR6 Scenario Explorer to familiarize yourself with the scenarios used in the IPCC AR6. This tool can be accessed at https://interactive-scenario-explorer.climate-data.org/.
 Jupyter notebook, with ´Pyam´, was used to provided to create alternative figures of the findings.
 
-LICENSE:
+## LICENSE:
 This repository is licensed under the MIT license. Please see the LICENSE file for more information.
 
-CREDIT:
+## CREDIT:
 This analysis was conducted by Ada Robinson. If you use this analysis or the findings presented in it, please give appropriate credit by citing this repository.
 
 
-License: MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
